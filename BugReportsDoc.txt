@@ -1,0 +1,26 @@
+ID
+Prodject
+Category
+View Status
+Date submitted
+Last update
+Reporter
+Assigned to
+
+Priority
+Severity
+Reproducibility
+Status
+Resolution
+Platform
+OS
+OS Version
+
+Summary 
+Description
+Steps To Reproduce
+Actual Result
+Expected Result
+Attachments
+
+Additional information
